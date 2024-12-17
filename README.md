@@ -1,5 +1,4 @@
 
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Lee%20Jae%20Yong&fontColor=000002&fontSize=90&animation=twinkling" />
 
 
@@ -9,10 +8,18 @@
 </div>
 <br/><br/><br/><br/>
 
-  <p>📖 Learning</p>
 <div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flatfor-the-badge&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flatfor-the-badge&logo=springboot&logoColor=white">
+🌳Projects<br/>
+[Open Source] Mosaic_using_Real-time_face_detection 2022.12.07 ~ 2022.12.12<br/>
+[Arduino] IoT House 2022.09.24 ~ 2022.11.30<br/>
+[Side Project] aimtrainer, reactiontest 2024.04.01 ~ 2024.04.07<br/>
+[BackEnd, Deployment] ReAction Bank 2024.04.10 ~ 2024.05.21<br/>
+[Android] Bus Arrival Info App 2024.05.06 ~ 2024.06.03<br/>
+[DataScience] Metro Advisor 2024.05.08 ~ 2024.06.07<br/>
+[System Engineering] CheckMate 2024.05.15 ~ 2024.05.31<br/>
+[BackEnd, CICD] SaveMoneyBank 2024.10.10 ~ 2024.11.26<br/>
+[Robotics] Aruco Marker Pick and Place 2024.09.23 ~ 2024.11.24<br/>
+[FrontEnd, BackEnd] TalkStock 2024.10.21 ~
 </div>
 <br/><br/><br/><br/>
 
