@@ -17,8 +17,8 @@
 [Android] Bus Arrival Info App 2024.05.06 ~ 2024.06.03<br/>
 [DataScience] Metro Advisor 2024.05.08 ~ 2024.06.07<br/>
 [System Engineering] CheckMate 2024.05.15 ~ 2024.05.31<br/>
-[BackEnd, CICD] SaveMoneyBank 2024.10.10 ~ 2024.11.26<br/>
 [Robotics] Aruco Marker Pick and Place 2024.09.23 ~ 2024.11.24<br/>
+[BackEnd, CICD] SaveMoneyBank 2024.10.10 ~ 2024.11.26<br/>
 [FrontEnd, BackEnd] TalkStock 2024.10.21 ~
 </div>
 <br/><br/><br/><br/>
