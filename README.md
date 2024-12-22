@@ -19,7 +19,7 @@
 [System Engineering] CheckMate 2024.05.15 ~ 2024.05.31<br/>
 [Robotics] Aruco Marker Pick and Place 2024.09.23 ~ 2024.11.24<br/>
 [BackEnd, CICD] SaveMoneyBank 2024.10.10 ~ 2024.11.26<br/>
-[FrontEnd, BackEnd] TalkStock 2024.10.21 ~
+[FrontEnd, BackEnd, CICD] TalkStock 2024.10.21 ~
 </div>
 <br/><br/><br/><br/>
 
