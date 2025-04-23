@@ -4,7 +4,7 @@
 
 <p>🏫 Education</p>
 <div>
-  <a href="https://sw.gachon.ac.kr/cms/" rel="nofollow">가천대학교 AI·소프트웨어전공 (소프트웨어학과)</a> 3학년 재학중 (2022.03 ~)
+  <a href="https://sw.gachon.ac.kr/cms/" rel="nofollow">가천대학교 AI·소프트웨어전공 (소프트웨어학과)</a> 4학년 재학중 (2022.03 ~)
 </div>
 <br/><br/><br/><br/>
 
@@ -20,6 +20,7 @@
 [Robotics] Aruco Marker Pick and Place 2024.09.23 ~ 2024.11.24<br/>
 [BackEnd, CICD] SaveMoneyBank 2024.10.10 ~ 2024.11.26<br/>
 [FrontEnd, BackEnd, CICD] TalkStock 2024.10.21 ~
+[INFRA] KAKAO ENTERPRISE - NILO 2025 03.04 ~
 </div>
 <br/><br/><br/><br/>
 
