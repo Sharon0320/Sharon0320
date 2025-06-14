@@ -13,17 +13,18 @@
 
 <div>
 🌳Projects<br/>
-[Open Source] Mosaic_using_Real-time_face_detection 2022.12.07 ~ 2022.12.12<br/>
-[Arduino] IoT House 2022.09.24 ~ 2022.11.30<br/>
-[Side Project] aimtrainer, reactiontest 2024.04.01 ~ 2024.04.07<br/>
-[BackEnd, Deployment] ReAction Bank 2024.04.10 ~ 2024.05.21<br/>
-[Android] Bus Arrival Info App 2024.05.06 ~ 2024.06.03<br/>
-[DataScience] Metro Advisor 2024.05.08 ~ 2024.06.07<br/>
-[System Engineering] CheckMate 2024.05.15 ~ 2024.05.31<br/>
-[Robotics] Aruco Marker Pick and Place 2024.09.23 ~ 2024.11.24<br/>
-[BackEnd, CICD] SaveMoneyBank 2024.10.10 ~ 2024.11.26<br/>
-[FrontEnd, BackEnd, CICD] TalkStock 2024.10.21 ~<br/>
-[INFRA] KAKAO ENTERPRISE - NILO 2025 03.04 ~
+[Open Source] Mosaic_using_Real-time_face_detection 2022.12.07 ~ 2022.12.12<br/><br/>
+[Arduino] IoT House 2022.09.24 ~ 2022.11.30<br/><br/>
+[Side Project] aimtrainer, reactiontest 2024.04.01 ~ 2024.04.07<br/><br/>
+[BackEnd, Deployment] ReAction Bank 2024.04.10 ~ 2024.05.21<br/><br/>
+[Android] Bus Arrival Info App 2024.05.06 ~ 2024.06.03<br/><br/>
+[DataScience] Metro Advisor 2024.05.08 ~ 2024.06.07<br/><br/>
+[System Engineering] CheckMate 2024.05.15 ~ 2024.05.31<br/><br/>
+[Robotics] Aruco Marker Pick and Place 2024.09.23 ~ 2024.11.24<br/><br/>
+[BackEnd, INFRA] SaveMoneyBank 2024.10.10 ~ 2024.11.26<br/><br/>
+[FrontEnd, INFRA] TalkStock 2024.10.21 ~<br/><br/>
+[INFRA] KAKAO ENTERPRISE - NILO 2025.03.04 ~ 2025.06.13 -   <a href="https://velog.io/@sharon0320/카카오-엔터프라이즈-SW아카데미-6기-TEAM-NILO-GriDam" rel="nofollow">Velog 프로젝트 개요 바로가기</a><br/>
+<br/>
 </div>
 <br/><br/><br/><br/>
 
