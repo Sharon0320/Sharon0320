@@ -26,7 +26,7 @@
 [FrontEnd, INFRA] TalkStock 2024.10.21 ~ 2025.06.17<br/><br/>
 [INFRA] KAKAO ENTERPRISE - NILO 2025.03.04 ~ 2025.06.13 -   <a href="https://velog.io/@sharon0320/카카오-엔터프라이즈-SW아카데미-6기-TEAM-NILO-GriDam" rel="nofollow">Velog 프로젝트 개요 바로가기</a><br/><br/>
 [Toy Project] Velog Auto Tagging App 2025.07.01 ~<br/><br/>
-[AI, INFRA] KAKAO ENTERPRISE - Hole in One  2025.07.02 ~
+[AI, INFRA] KAKAO ENTERPRISE - Hole in One  2025.07.02 ~ 2025.08.22
 <br/>
 </div>
 <br/><br/><br/><br/>
