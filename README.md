@@ -4,10 +4,10 @@
 
 <p>🏫 Education</p>
 <div>
-  <a href="https://sw.gachon.ac.kr/cms/" rel="nofollow">가천대학교 AI·소프트웨어전공 (소프트웨어학과)</a> 4학년 재학중 (2022.03 ~)<br/>
+  <a href="https://sw.gachon.ac.kr/cms/" rel="nofollow">가천대학교 AI·소프트웨어전공 (소프트웨어학과)</a> 4학년 휴학중 (2022.03 ~)<br/>
 <a href="https://www.ic.ac.kr/synap/skin/doc.html?fn=temp_1737095756705100&rs=/synap/result/bbs/480" rel="nofollow" target="_blank">
   가천 카카오엔터프라이즈 SW 아카데미 6기 </a>
-(2025.03 ~)
+(2025.03 ~ 08)
 </div>
 <br/><br/><br/><br/>
 
