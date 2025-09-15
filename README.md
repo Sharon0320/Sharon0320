@@ -8,6 +8,9 @@
 <a href="https://www.ic.ac.kr/synap/skin/doc.html?fn=temp_1737095756705100&rs=/synap/result/bbs/480" rel="nofollow" target="_blank">
   가천 카카오엔터프라이즈 SW 아카데미 6기 </a>
 (2025.03 ~ 2025.08)
+   <br/>
+  <a href="https://www.upstage.ai/" rel="nofollow">Upstage.AI</a> Upstage AI Ambassador 1기 (2025.09 ~)<br/>
+  <a href="https://umc.makeus.in/" rel="nofollow">IT 연합 사이드 프로젝트 동아리 UMC</a> 9th Spring (2025.09 ~)<br/>
 </div>
 <br/><br/><br/><br/>
 
