@@ -9,10 +9,12 @@
   가천 카카오엔터프라이즈 SW 아카데미 6기 </a>
 (2025.03 ~ 2025.08)
    <br/>
-  <a href="https://www.upstage.ai/" rel="nofollow">Upstage.AI</a> Upstage AI Ambassador 1기 (2025.09 ~)<br/>
+  <a href="https://www.upstage.ai/" rel="nofollow">Upstage.AI</a> Upstage AI Ambassador 1기 (2025.09 ~ 2025.12)<br/>
   <a href="https://umc.makeus.in/" rel="nofollow">IT 연합 사이드 프로젝트 동아리 UMC</a> 9th Spring (2025.09 ~)<br/>
 </div>
 <br/><br/><br/><br/>
+
+<!--
 
 <div>
 <h2>🌳 Projects</h2> <br/>
@@ -48,7 +50,6 @@
 
 
 
-<!--
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flatfor-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flatfor-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flatfor-the-badge&logo=JavaScript&logoColor=white">
